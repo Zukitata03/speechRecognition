@@ -1,0 +1,6 @@
+pandas
+nltk
+numpy
+ipywidgets
+pyaudio
+vosk
