@@ -1,0 +1,6 @@
+TEXT,Negative,Neutral,Positive,Emotion,Subjectivity,Opinion/Fact?,Weighted Sentiment
+i have three cats,0.0,1.0,0.0,Neutral 😐,0.0,Fact,0.0
+,0.0,0.0,0.0,Neutral 😐,0.0,Fact,0.0
+,0.0,0.0,0.0,Neutral 😐,0.0,Fact,0.0
+i hate cats,0.787,0.213,0.0,Negative 😞,0.9,Opinion,-0.51471
+i hate cats,0.787,0.213,0.0,Negative 😞,0.9,Opinion,-0.51471
